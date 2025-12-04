@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://dubai-ai-city.emergent.host/$1"
+      "destination": "https://ai-metropolis-2.emergent.host/$1"
     }
   ]
 }
